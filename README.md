@@ -1,2 +1,3 @@
 # vscodetest
 fetch
+pull --rebase
